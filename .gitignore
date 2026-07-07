@@ -1,0 +1,8 @@
+# Never commit real user data
+*.csv
+*.csv.gz
+!sample_*.csv
+
+__pycache__/
+*.pyc
+.DS_Store
